@@ -57,5 +57,6 @@ var RLANG = {
 	video_html_code: 'Le Code de vidéo',
 	file: 'Le Fichier',	
 	upload: 'Charger',
-	download: 'Transférer'	
+	download: 'Transférer',
+	choose: 'choisir'
 };

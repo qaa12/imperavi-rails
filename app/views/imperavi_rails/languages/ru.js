@@ -58,5 +58,6 @@ var RLANG = {
 	video_html_code: 'Код видео ролика',
 	file: 'Файл',
 	upload: 'Загрузить',
-	download: 'Скачать'		
+	download: 'Скачать',
+	choose: 'Выбрать'
 };

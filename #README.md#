@@ -11,12 +11,11 @@ Put this gem into your Gemfile and run `bundle install`
 ```ruby
 gem 'imperavi-rails', '0.0.12.beta'
 ```
-For fix "%RLANG.choose%" problem put into your Gemfile and run `bundle install`
+For fix d missed param 'choose' in ru&en locale
 
 ```ruby
-gem 'imperavi-rails', :git => "git://github.com/qaa12/imperavi-rails.git"
+gem 'imperavi-rails', '0.0.12.beta'
 ```
-
 Then run install generator:
 
 ```bash

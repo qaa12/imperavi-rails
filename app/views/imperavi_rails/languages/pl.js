@@ -58,5 +58,6 @@ var RLANG = {
 	video_html_code: 'Kod źródłowy pliku wideo',
 	file: 'Plik',
 	upload: 'Wgraj na serwer',
-	download: 'Pobierz'
+	download: 'Pobierz',
+	choose: 'wybierać'
 };
